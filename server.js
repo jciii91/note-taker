@@ -1,5 +1,5 @@
-const apiRoutes = require('./lib/routes/apiRoutes');
-const htmlRoutes = require('./lib/routes/htmlRoutes');
+const apiRoutes = require('./routes/apiRoutes');
+const htmlRoutes = require('./routes/htmlRoutes');
 
 const express = require('express');
 const { notes } = require('./db/db.json');
