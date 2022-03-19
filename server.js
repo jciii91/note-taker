@@ -2,7 +2,7 @@ const apiRoutes = require('./lib/routes/apiRoutes');
 const htmlRoutes = require('./lib/routes/htmlRoutes');
 
 const express = require('express');
-const { animals } = require('./data/animals');
+const { notes } = require('./db/db.json');
 const fs = require('fs');
 const path = require('path');
 
