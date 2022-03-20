@@ -2,23 +2,38 @@
   "notes": [
     {
       "title": "Note 1",
-      "text": "Text 1",
-      "id": "0"
+      "text": "Note 1",
+      "id": "0a39dbd0-a865-11ec-aade-81b8da05448e"
     },
     {
       "title": "Note 2",
-      "text": "Text 2",
-      "id": "1"
+      "text": "Note 2",
+      "id": "0dd07010-a865-11ec-aade-81b8da05448e"
     },
     {
-      "title": "This is my new title.",
-      "text": "Look at all the words I am typing in this note!",
-      "id": "2"
+      "title": "Note 3",
+      "text": "Note 3",
+      "id": "111ba370-a865-11ec-aade-81b8da05448e"
     },
     {
-      "title": "Test Note",
-      "text": "Test Text",
-      "id": "dba7c110-a85a-11ec-9c33-01d58b88ada1"
+      "title": "Note 4",
+      "text": "Note 4",
+      "id": "14c327a0-a865-11ec-aade-81b8da05448e"
+    },
+    {
+      "title": "Note 5",
+      "text": "Note 5",
+      "id": "ddb630e0-a869-11ec-a056-29b7abbf7fa5"
+    },
+    {
+      "title": "Note 6",
+      "text": "Note 6",
+      "id": "e2856c30-a869-11ec-a056-29b7abbf7fa5"
+    },
+    {
+      "title": "Note 7",
+      "text": "Note 7",
+      "id": "ecca5c00-a869-11ec-a056-29b7abbf7fa5"
     }
   ]
 }
