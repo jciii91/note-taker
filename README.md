@@ -8,6 +8,10 @@ An application called Note Taker that can be used to write and save notes. This 
 
 [Link to deployed application](https://mysterious-spire-35262.herokuapp.com/)
 
+![image](https://user-images.githubusercontent.com/51002088/159174796-47726c8e-04f7-4c61-8264-0d5f89a7e7e3.png)
+
+![image](https://user-images.githubusercontent.com/51002088/159174811-3bda618d-1eac-4da6-a7c2-da45c439b8e5.png)
+
 ## Table of Contents
 
 - [Installation](#installation)
